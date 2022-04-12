@@ -2,4 +2,4 @@
 
 ## This is my test folder.
 
-Enjoy your stay
+Enjoy your stay!
